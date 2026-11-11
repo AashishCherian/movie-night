@@ -2,7 +2,7 @@
 
 A cinema-themed movie picker. Choose your languages, moods, genres and platforms, then spin the roulette.
 
-**Live site:** `https://<your-username>.github.io/movie-night/`
+**Live site:** `[https://<your-username>.github.io/movie-night/`](https://aashishcherian.github.io/movie-night/)
 
 ## About the data
 
